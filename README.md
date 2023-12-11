@@ -1,5 +1,5 @@
 # Tutorial 1 Problem Solving in Programming(WIX1002)
-## MD Raffaul Islam(S2104232)
+#### MD Raffaul Islam(S2104232)
 ###### The build of pseudocode and flow chart for each of the problems:
 ## Part 1
 > Pseudocode of Problem 1:-
